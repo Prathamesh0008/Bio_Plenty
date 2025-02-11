@@ -1,12 +1,12 @@
 # Node.js dependencies
 node_modules/
-package-lock.json
+.cache/
+dist/
 pnpm-lock.yaml
 yarn.lock
 
 # Build output
 dist/
-build/
 out/
 .vite/
 .next/
