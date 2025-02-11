@@ -1,0 +1,5 @@
+.product-design-bg{
+    background: url(../../../src/Assests/IMG/catalog-card-bg.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
